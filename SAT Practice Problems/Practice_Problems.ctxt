@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.target=Practice_Problems
+comment0.text=\r\n\ The\ purpose\ of\ the\ software\ is\ to\ help\ users\ practice\ and\ learn\ through\ a\ quiz\ format.\r\n\ It\ presents\ one\ problem\ at\ a\ time,\ lets\ the\ user\ submit\ an\ answer,\ and\ then\ provides\ immediate\ feedback\ on\ whether\ the\ answer\ was\ correct\ or\ not.\r\n\ If\ correct,\ the\ user\ earns\ points\ and\ sees\ their\ total\ points.\ \r\n\ If\ incorrect,\ the\ user\ sees\ the\ correct\ answer\ and\ the\ steps\ to\ solve\ the\ problem,\ along\ with\ their\ running\ total\ of\ points.\r\n\r\n\ @Barath\ Balaji\r\n\ @06/02/24\r\n
+comment1.params=
+comment1.target=Practice_Problems()
+comment2.params=args
+comment2.target=void\ main(java.lang.String[])
+comment3.params=e
+comment3.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment4.params=
+comment4.target=void\ updateProblem()
+comment5.params=
+comment5.target=void\ disableAnswerInputs()
+comment6.params=buttonGroup
+comment6.target=java.lang.String\ getSelectedButtonText(javax.swing.ButtonGroup)
+comment7.params=
+comment7.target=java.util.ArrayList\ loadProblems()
+numComments=8
